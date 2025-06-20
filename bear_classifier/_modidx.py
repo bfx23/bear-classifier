@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://bfx23.github.io',
                 'git_url': 'https://github.com/bfx23/bear-classifier',
                 'lib_path': 'bear_classifier'},
-  'syms': {'bear_classifier.core': {'bear_classifier.core.foo': ('core.html#foo', 'bear_classifier/core.py')}}}
+  'syms': { 'bear_classifier.bear_classifier': {},
+            'bear_classifier.core': {'bear_classifier.core.foo': ('core.html#foo', 'bear_classifier/core.py')}}}
