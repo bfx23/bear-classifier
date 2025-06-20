@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bear-classifier"
+  site-url: "https://bfx23.github.io/bear-classifier"
+  description: "fast.ai deep learning project"
+  repo-branch: main
+  repo-url: "https://github.com/bfx23/bear-classifier"
