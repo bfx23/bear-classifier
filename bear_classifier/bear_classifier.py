@@ -4,7 +4,6 @@
 __all__ = ['bear_types', 'path', 'fns', 'failed', 'bears', 'dls', 'learn']
 
 # %% ../nbs/02_production_clean.ipynb 2
-# ! [ -e /content ] && pip install -Uqq fastbook
 import pillow_avif
 import fastbook
 fastbook.setup_book()
